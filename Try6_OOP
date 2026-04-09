@@ -1,0 +1,16 @@
+a=12
+b=9
+c=12
+
+a==c
+print("a==c=", a==c)
+a!=b
+print("a!=b=", a!=b)
+c>b
+print("c>b=", c>b)
+c<b
+print("c<b=", c<b)
+b>=c
+print("b>=c=", b>=c)
+a<=b
+print("a<=b=", a<=b)
