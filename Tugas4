@@ -1,0 +1,14 @@
+nama = input("Masukan Nama Anda:")
+print("silvia",)
+
+umur = input("Masukan Umur Anda:")
+print(umur)
+
+no_hp = input("Masukan Nomor Hp:")
+print("083847742836")
+
+email = input("Masukan Email:")
+print(email)
+
+alamat = input("Masukan Alamat:")
+print("bojong bubu")

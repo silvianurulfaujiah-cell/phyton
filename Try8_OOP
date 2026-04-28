@@ -1,0 +1,9 @@
+a=6
+b=14
+
+c=a&b
+print(c,bin(a&b))
+c=a|b
+print(c,bin(a|b))
+c=a^b
+print(c,bin(a^b))
