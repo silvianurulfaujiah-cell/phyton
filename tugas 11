@@ -1,0 +1,9 @@
+# Program Tabel Perkalian Angka 7
+angka = 7
+
+print("=== Tabel Perkalian Angka 7 ===")
+
+# Melakukan perulangan dari 1 hingga 10
+for i in range(1, 11):
+    hasil = angka * i
+    print(f"{angka} x {i} = {hasil}")
